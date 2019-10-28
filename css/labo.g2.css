@@ -1,0 +1,10 @@
+body {
+    background-color: beige;
+    }
+    .menu{
+        display:flex;
+        justify-content: space-between;
+    }
+    h2{
+        color:red;
+    }
